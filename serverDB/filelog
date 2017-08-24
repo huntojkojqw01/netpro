@@ -1,0 +1,30 @@
+Time:  2016-12-15 17:12:52
+IP:          192.168.1.2
+Type: Enhuff
+Recevied data( 31260967/31260967 bytes).
+Sent data( 17853145/17853145 bytes).
+Compress rate: 1.75
+Result: Success
+--------------------------------------
+Time:  2016-12-15 17:13:06
+IP:          192.168.1.2
+Type: Dehuff
+Recevied data( 17853145/17853145 bytes).
+Sent data( 31260967/31260967 bytes).
+Result: Success
+--------------------------------------
+Time:  2016-12-15 17:17:37
+IP:            127.0.0.1
+Type: Enhuff
+Recevied data( 35/35 bytes).
+Sent data( 116/116 bytes).
+Compress rate: 0.30
+Result: Success
+--------------------------------------
+Time:  2016-12-15 17:17:45
+IP:            127.0.0.1
+Type: Dehuff
+Recevied data( 116/116 bytes).
+Sent data( 35/35 bytes).
+Result: Success
+--------------------------------------
